@@ -1,6 +1,6 @@
 #Employee Tracking System
 
-Based on CodeIgniter 4
+Based on CodeIgniter 3
 
 ###Requirements
 
